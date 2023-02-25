@@ -10,7 +10,7 @@
 
 CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely used and well-established data mining process model that provides a structured approach for planning, executing, and managing data mining projects. The CRISP-DM process consists of six phases: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment. 
 
-Here is an example : [Business & Data Understanding](https://github.com/emrecanduran/CRISP-DM-Process-Market-Basket-Analysis-on-TripAdvisor/blob/30b6b8c431ceb5e8cd72838bf337277b5393f826/Business%20&%20Data%20Understanding.ipynb)
+Here is an example : [Business & Data Understanding](https://github.com/emrecanduran/CRISP-DM-Process-Market-Basket-Analysis-on-TripAdvisor-Portugal-based/blob/90396b87c443d752d5f7b1560f43d5b398d43ed0/Business%20&%20Data%20Understanding.ipynb)
 
 
 #### Action 
