@@ -13,15 +13,15 @@ CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely used and 
 Here is an example : [Business & Data Understanding](https://github.com/emrecanduran/CRISP-DM-Process-Market-Basket-Analysis-on-TripAdvisor-Portugal-based/blob/90396b87c443d752d5f7b1560f43d5b398d43ed0/Business%20&%20Data%20Understanding.ipynb)
 
 
-#### Action 
+### Action 
 
 As a master's degree student, I was tasked with making a final project with a detailed report for Data Science for Marketing course. 
 
-#### Setup
+### Setup
 
 This project has been implemented on jupyter notebook using a main and an auxiliary dataset. 
 
-#### Method 
+### Method 
 
 The steps were taken in accordance with the CRISP DM methodology, the data sets were examined and interesting patterns were tried to be found. The Apriori algorithm(Frequent Itemsets - Association Rule Mining) was used as the model.
 
